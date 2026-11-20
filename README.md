@@ -1,4 +1,4 @@
-# Trafic-light-Arduino
+# Trafic-light-Arduino-
 
 ![Traffic Light Circuit](Traffic%20light%20circuit.png)
 
